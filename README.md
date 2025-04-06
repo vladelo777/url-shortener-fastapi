@@ -39,7 +39,7 @@
 
 1. **Клонируйте репозиторий**:
     ```bash
-    git clone https://github.com/yourusername/url-shortener-fastapi.git
+    git clone https://github.com/vladelo777/url-shortener-fastapi.git
     cd url-shortener-fastapi
     ```
 
